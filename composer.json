@@ -4,11 +4,9 @@
   "type": "typo3-cms-extension",
   "license": "GPL-3.0-or-later",
   "require": {
-    "yoast-seo-for-typo3/yoast_seo": "^6 || ^7 || ^8",
-    "georgringer/news": "^8 || ^9 || ^10",
-    "typo3/cms-core": "^9.5 || ^10.4 || ^11.5",
-    "typo3/cms-extbase": "^9.5 || ^10.4 || ^11.5",
-    "php": "^7.0 || ^8.0"
+    "georgringer/news": "^11",
+    "typo3/cms-core": "^12.4",
+    "yoast-seo-for-typo3/yoast_seo": "^9"
   },
   "autoload": {
     "psr-4": {

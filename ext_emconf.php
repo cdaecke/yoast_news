@@ -9,9 +9,9 @@ $EM_CONF['yoast_news'] = [
     'version' => '2.1.2',
     'constraints' => [
         'depends' => [
-            'news' => '8.0.0-10.99.99',
-            'yoast_seo' => '6.0.0-8.99.99',
-            'typo3' => '9.5.0-11.5.99'
+            'news' => '11.0.0-11.99.99',
+            'typo3' => '12.4.0-12.4.99',
+            'yoast_seo' => '9.0.0-9.99.99',
         ],
         'conflicts' => [],
         'suggests' => []
